@@ -1,43 +1,68 @@
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
+#Touch Working files
+*.*.toe
+CrashAutoSave.toe
+TouchDesignerCrash*.dmp
 
-# Folder config file
-Desktop.ini
+#Robo Copy Log
+robo-log.txt
 
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
+# Compiled source #
+###################
+*.com
+*.class
+*.o
+*.so
 
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
 
-# Windows shortcuts
-*.lnk
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
 
-# =========================
-# Operating System Files
-# =========================
-
-# OSX
-# =========================
-
+# OS generated files #
+######################
 .DS_Store
-.AppleDouble
-.LSOverride
-
-# Thumbnails
+.DS_Store?
 ._*
-
-# Files that might appear on external disk
 .Spotlight-V100
 .Trashes
+ehthumbs.db
+Thumbs.db
 
-# Directories potentially created on remote AFP share
-.AppleDB
-.AppleDesktop
-Network Trash Folder
-Temporary Items
-.apdisk
+pids
+logs
+results
+
+### Node ###
+lib-cov
+*.seed
+*.log
+*.csv
+#*.dat
+*.out
+*.pid
+*.gz
+
+pids
+logs
+results
+
+npm-debug.log
+node_modules
+reference
+
+# emacs
+\#*
