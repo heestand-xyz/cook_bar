@@ -8,3 +8,4 @@ on pause deactivate the custom ui toggle
 hidden docked items needs to be excluded
 select_cook_bar_bg1 is created for some reason
 remove select top when self destruct is triggerd even if the top is in a different network
+save script... if main cook bar comp not saved and select op saved, not good
