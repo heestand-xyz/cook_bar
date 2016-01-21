@@ -1,0 +1,9 @@
+calc docked items
+get rid of topto, use shader arrays
+rm support for bg tops
+add support for bg tops
+use step func
+timline paused on start
+on pause deactivate the custom ui toggle
+hidden docked items needs to be excluded
+select_cook_bar_bg1 is created for some reason
