@@ -10,3 +10,4 @@ select_cook_bar_bg1 is created for some reason
 remove select top when self destruct is triggerd even if the top is in a different network
 border is one pix to far away
 only turn display off on tops
+save script... if main cook bar comp not saved and select op saved, not good
