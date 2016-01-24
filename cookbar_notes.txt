@@ -1,0 +1,4 @@
+add a pixel row of alpha separators between 1.0 vertical increments in bar
+limit cook is heavey
+datto is very heavey
+find a way to feed the shader without datto and chopto
