@@ -15,3 +15,4 @@ x datto is very heavey
 - border is one pix to far away
 + only turn display off on tops
 ? save script... if main cook bar comp not saved and select op saved, not good
+- decide if cut of limit will trim or stop all ops from working
