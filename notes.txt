@@ -1,23 +1,12 @@
-> add a pixel row of alpha separators between 1.0 vertical increments in bar
-> limit cook is heavey
-x datto is very heavey
+- datto is very heavey
 > find a way to feed the shader without datto
-+ calc docked items
-+ get rid of chopto, use shader arrays
 > rm support for bg tops when active
 > add support for bg tops comeback when inactive, store them in an arr
-? use step func
-? timline paused on start
-> on pause deactivate the active par custom ui toggle
-+ hidden docked items needs to be excluded
-? select_cook_bar_bg1 is created for some reason
-- remove select top when self destruct is triggerd even if the top is in a different network
+x timline paused on start
+- check so no extra select tops are created
 - border is one pix to far away
-+ only turn display off on tops
 ? save script... if main cook bar comp not saved and select op saved, not good
-- decide if cut of limit will trim or stop all ops from working
-- clamp min max in Maxopcount
 > clean up failed select tops
-? motionhacker or me
 ? random spikes in cook level when panning in the network
-> rm commented code in shader
+? support for multiple cook_bars?
+? support for ctrl+b and g
