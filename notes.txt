@@ -20,3 +20,4 @@ x datto is very heavey
 > clean up failed select tops
 ? motionhacker or me
 ? random spikes in cook level when panning in the network
+> rm commented code in shader
