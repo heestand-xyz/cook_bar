@@ -1,8 +1,6 @@
-- datto is very heavey
-> find a way to feed the shader without datto
-> rm support for bg tops when active
-> add support for bg tops comeback when inactive, store them in an arr
 x timline paused on start
+> work on start
+? crash on del
 - check so no extra select tops are created
 - border is one pix to far away
 ? save script... if main cook bar comp not saved and select op saved, not good
@@ -10,3 +8,4 @@ x timline paused on start
 ? random spikes in cook level when panning in the network
 ? support for multiple cook_bars?
 ? support for ctrl+b and g
+- save as old version as possibe to skip version warning msg
