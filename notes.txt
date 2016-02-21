@@ -1,3 +1,0 @@
-- random spikes in cook level when in lag mode and panning in the network so the op count changes and resets the lag
-? support for multiple cook_bars?
-- save as old version as possibe to skip version warning msg
