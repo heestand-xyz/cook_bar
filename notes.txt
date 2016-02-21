@@ -1,11 +1,3 @@
-x timline paused on start
-> work on start
-? crash on del
-- check so no extra select tops are created
-- border is one pix to far away
-? save script... if main cook bar comp not saved and select op saved, not good
-> clean up failed select tops
-? random spikes in cook level when panning in the network
+- random spikes in cook level when in lag mode and panning in the network so the op count changes and resets the lag
 ? support for multiple cook_bars?
-? support for ctrl+b and g
 - save as old version as possibe to skip version warning msg
