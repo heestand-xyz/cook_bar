@@ -1,4 +1,4 @@
-## Cook Bar
+## Cook Bar v2
 #### TouchDesigner cook times visualized (now with GPU memory)
 Download link: [cook_bar_v2.tox](https://github.com/heestand/cook_bar/blob/master/cook_bar_v2.tox?raw=true)
 
